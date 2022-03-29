@@ -9,6 +9,7 @@ const be = require('blockexplorer');
        
  } catch (error) {
      console.log('Whoops', error.message)
+     // Running out of solutions here. The API is failing from the block explorer.
  }
 }
  
